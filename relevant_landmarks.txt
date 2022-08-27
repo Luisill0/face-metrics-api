@@ -1,0 +1,22 @@
+chin 199
+
+right mouth 57
+left mouth 287
+bottom mouth 18
+
+midwayBetweenEyes: [168],
+
+noseTip: [1],
+noseBottom: [2],
+noseRightCorner: [98],
+noseLeftCorner: [327],
+
+right eyebrow outer 70
+right eyebrow inner 107
+
+left eyebrow outer 300
+left eyebrow inner 336
+
+nose-eye border right 193
+nose-eye borde left 417
+

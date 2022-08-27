@@ -1,0 +1,14 @@
+fastapi
+requests
+srsly
+uvicorn
+python-dotenv
+pytest
+pytest-cov
+black
+opencv-python
+numpy
+mediapipe
+python-multipart
+protobuf==3.19 # required for mediapipe
+#pytorch
